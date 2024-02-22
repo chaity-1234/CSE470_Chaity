@@ -1,1 +1,1 @@
-# CSE470_Chaity
+# CSE470 Project
